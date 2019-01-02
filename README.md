@@ -1,7 +1,7 @@
-# Web page design
-- <s>rebuilt template (2016 edit)</s>
-- <s>Learn a little bit about markdown</s>
-- Need to add bootstarp 
-- Arbitrary content 
-- More functional 
-
+<<<<<<< HEAD
+# web-page-design
+rebuilt template (2016 edit) +
+need to add bootstarp -
+arbitrary content -
+more functional -
+>>>>>>> cde0a8de040426db440c5ead35327ba26cd2452b
