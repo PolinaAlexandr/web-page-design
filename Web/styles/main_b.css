@@ -25,6 +25,7 @@ h3 {
     font-weight: 400;
 }
 
+
 .header {
     padding-top: 60px;
     background-color: darkgray;
@@ -53,9 +54,45 @@ h3 {
 }
 
 .offer{
+    margin-top: 120px;
 
 }
 
 .offer__title{
+    font-size: 35px;
+    margin-bottom: 8px;
+
+}
+
+.offer__intro{
+    font-size: 22px;
+    line-height: 1,4em;
+
+}
+
+.offer__text{
+    font-size: 17px;
+    margin-top: 13px;
+    color: #555555;
+    width: 410px;
+
+}
+
+
+.icons__item{
+    margin-right: 30px;
+}
+
+
+.icons__item a{
+    color: black;
+    font-size: 39px;
+    
+}
+
+.icons__item a:hover{
+    text-decoration: none;
+    color: crimson;
+    font-size: 45px;
     
 }
