@@ -3,9 +3,51 @@ body {
 
 }
 
+
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 700;
+    color: black;
+}
+
+
+h2{
+text-align: center;
+}
+
+h3 {
+    font-weight: 400;
+}
+
 .header {
-    background-color: lightslategrey;
+    padding-top: 60px;
+    background-color: darkgray;
     visibility: 85%;
     color: black;
-    
+}
+
+.menu{
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+
+.menu__item{
+    margin: 0 57px;
+
+}
+
+
+.menu__item a{
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+
+
 }
