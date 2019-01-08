@@ -9,4 +9,6 @@
 - More functional 
 - What about node.js?
 - Finish it, please.
+# yeah, i will remove old templates
+someday later <s>maybe never</s>
 
