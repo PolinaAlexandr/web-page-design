@@ -3,9 +3,10 @@
 - <s>Learned a little bit about Markdown</s>
 - <s>Remove Markdown conflict</s>
 - <s>Need to add bootstarp</s>
-  - I'll remove old templates cose they are complitly useless
+  - I'll remove old templates cose they are complitly useless (1/2 part)
   - <s>Started a new one clean template with using local bootstrap files</s> 
 - Arbitrary content 
 - More functional 
-- Finish whole progect before midnight 5/01
+- What about node.js?
+- Finish it, please.
 
