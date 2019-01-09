@@ -33,9 +33,17 @@ h3 {
     color: black;
 }
 
+.log_fake{
+    float: none;
+
+}
+
+
 .menu{
     font-size: 22px;
     margin-top: 10px;
+    float: none;
+
 }
 
 
