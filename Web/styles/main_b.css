@@ -14,6 +14,7 @@ ul, li {
 h1, h2, h3 {
     font-weight: 700;
     color: black;
+    text-shadow:-1px 1px 0px rgb(126, 125, 125);
 }
 
 
@@ -67,20 +68,25 @@ h3 {
 
 
 .menu__item a{
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 700;
-    color: black;
+    color: rgb(22, 22, 22);
     text-decoration: none;
     transition: 0.3s ease;
+    /* text-shadow: 0 0 4px white; */
+    text-shadow: -2px 1px 0px #ccd6d6,
+    -7px 7px 0px #373a3a,
+    -10px 10px 0px #6f7979;;
 
 
 }
 
 .menu__item a:hover{
-    font-size: 24px;
+    font-size: 26px;
     font-weight: 700;
     color:crimson;
     text-decoration: none;
+    text-shadow: -3px 2px 1px white;
 
 
 }
@@ -100,14 +106,16 @@ h3 {
     font-size: 22px;
     line-height: 1,4em;
     color: crimson;
+    text-shadow: -1px 1px 0px rgb(253, 192, 204);
 
 }
 
 .offer__text{
     font-size: 17px;
     margin-top: 13px;
-    color: silver;
+    color: rgb(216, 215, 215);
     width: 410px;
+    text-shadow: 2px 2px 4px black;
 
 }
 
@@ -120,6 +128,7 @@ h3 {
 .icons__item a{
     color: black;
     font-size: 39px;
+    text-shadow: 2px 2px 8px crimson;
 
     
 }
@@ -127,6 +136,8 @@ h3 {
 .icons__item a:hover{
     text-decoration: none;
     color: crimson;
+    text-shadow: 2px 2px 8px black          ;
+
 
 }
 
