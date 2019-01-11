@@ -74,11 +74,7 @@ h3 {
     text-decoration: none;
     transition: 0.3s ease;
     /* text-shadow: 0 0 4px white; */
-    text-shadow: -2px 1px 0px #ccd6d6,
-    -7px 7px 0px #373a3a,
-    -10px 10px 0px #6f7979;;
-
-
+    text-shadow: -2px 1px 0px white;
 }
 
 .menu__item a:hover{
@@ -86,9 +82,9 @@ h3 {
     font-weight: 700;
     color:crimson;
     text-decoration: none;
-    text-shadow: -3px 2px 1px white;
-
-
+    text-shadow: -2px 1px 0px #ccd6d6,
+    -7px 7px 0px #373a3a,
+    -10px 10px 0px #6f7979;
 }
 
 .offer{
@@ -106,7 +102,7 @@ h3 {
     font-size: 22px;
     line-height: 1,4em;
     color: crimson;
-    text-shadow: -1px 1px 0px rgb(253, 192, 204);
+    text-shadow: -1px 1px 0px rgb(199, 135, 148);
 
 }
 
@@ -154,6 +150,10 @@ h3 {
     border-color: crimson;
     
 }
+.description{
+    margin-bottom: 50px;
+}
+
 
 .description__icon{
     font-size: 50px;
@@ -164,5 +164,41 @@ h3 {
 
 .description_con{
     color: #444444;
+
+}
+
+.mail{
+    background:rgb(34, 33, 33); 
+    color: #ccd6d6;
+}
+
+.crimson_theme{
+    color: crimson;
+    text-shadow: -1px 1px 0px rgb(199, 135, 148);
+    font-family: 'PT Sans', sans-serif;
+}
+
+.form{
+
+}
+
+.form__inp{
+    background: white;
+    font-size: 18px;
+    font-family: 'PT Sans', sans-serif;
+    border-radius: 30px;
+    width: 580px;
+    padding: 15px 0;
+
+}
+
+.form__butn{
+    font-family: 'PT Sans', sans-serif;
+    border-radius: 30px;
+    background: crimson;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+
 
 }
