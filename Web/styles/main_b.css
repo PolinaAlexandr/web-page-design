@@ -194,3 +194,24 @@ h3 {
     cursor: pointer;
     outline: none;
 }
+
+.footer{
+    background:rgb(34, 33, 33); 
+    color: #ccd6d6;   
+    text-align: center;
+}
+
+.information{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.information a{
+    color: #ccd6d6;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.information a:hover{
+    color: crimson;
+}
