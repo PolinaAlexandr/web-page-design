@@ -1,6 +1,5 @@
 body { 
     font-family: 'PT Sans', sans-serif;
-
 }
 
 
@@ -8,7 +7,6 @@ ul, li {
     display: block;
     padding: 0;
     margin: 0;
-
 }
 
 h1, h2, h3 {
@@ -24,7 +22,6 @@ h2{
 
 h3 {
     font-weight: 400;
-
 }
 
 
@@ -36,14 +33,12 @@ h3 {
 
 .title__main{
     font-size: 33px;
-
 }
 
 .title__text{
     font-size: 20px;
     width: 780px;
     margin: 0 auto;
-    
 }
 
 
@@ -51,7 +46,6 @@ h3 {
 .header {
     padding-top: 60px;
     background-image: url(../resources/cutmypic.png);
-    
 }
 
 
@@ -63,7 +57,6 @@ h3 {
 
 .menu__item{
     margin: 0 57px;
-
 }
 
 
@@ -89,13 +82,11 @@ h3 {
 
 .offer{
     margin-top: 120px;
-
 }
 
 .offer__title{
     font-size: 35px;
     margin-bottom: 8px;
-
 }
 
 .offer__intro{
@@ -103,7 +94,6 @@ h3 {
     line-height: 1,4em;
     color: crimson;
     text-shadow: -1px 1px 0px rgb(199, 135, 148);
-
 }
 
 .offer__text{
@@ -133,14 +123,11 @@ h3 {
     text-decoration: none;
     color: crimson;
     text-shadow: 2px 2px 8px black          ;
-
-
 }
 
 .art{
     display: block;
     margin: 60px auto 0;
-
 }
 
 .art:hover{
@@ -148,8 +135,8 @@ h3 {
     background-color: crimson;
     border-radius: 33px;
     border-color: crimson;
-    
 }
+
 .description{
     margin-bottom: 50px;
 }
@@ -158,7 +145,6 @@ h3 {
 .description__icon{
     font-size: 50px;
     margin-right: 25px;
-
 }
 
 
@@ -190,7 +176,7 @@ h3 {
     width: 580px;
     padding: 15px 0;
     border-color: crimson;
-
+    outline: none;
 }
 
 .form__butn{
@@ -204,6 +190,7 @@ h3 {
     font-weight: 700;
     width: 105px;
     padding: 15px 0;
-
-
+    margin-right: 20px;
+    cursor: pointer;
+    outline: none;
 }
