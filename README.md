@@ -4,6 +4,6 @@
 - More functional 
 - What about vue..... node.js?
 - Finish it, please.
-# yeah, i will remove old templates
-someday later <s>maybe never</s>
+# <s> yeah, i will remove old templates</s>
+- not all
 
