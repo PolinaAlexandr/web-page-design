@@ -108,14 +108,22 @@ h3 {
     margin-top: 55px;
     margin-left: 50px;
     padding: 20px;
-    
-
+}
+.projects__theme a{
+    text-decoration: none;
+    color: #444444;
 }
 
 .projects__theme a:hover{
     text-decoration: none;
     color: crimson;
 }
+
+.projects__theme p{
+    text-decoration: none;
+    color: #444444;
+}
+
 
 .icons__item{
     margin-right: 30px;
@@ -157,7 +165,6 @@ h3 {
     font-size: 50px;
     margin-right: 25px;
 }
-
 
 .description_con{
     color: #444444;
