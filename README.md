@@ -1,4 +1,4 @@
-# web-page-design
+# web-page-design_for_github.io
 - <s>Template</s>
 - <s>Adaptive design</s>
 - new necessary pages and their design
