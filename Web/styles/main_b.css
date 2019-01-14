@@ -102,9 +102,20 @@ h3 {
     color: rgb(216, 215, 215);
     width: 410px;
     text-shadow: 2px 2px 4px black;
+}
+
+.projects__theme{
+    margin-top: 55px;
+    margin-left: 50px;
+    padding: 20px;
+    
 
 }
 
+.projects__theme a:hover{
+    text-decoration: none;
+    color: crimson;
+}
 
 .icons__item{
     margin-right: 30px;
@@ -150,6 +161,7 @@ h3 {
 
 .description_con{
     color: #444444;
+    
 
 }
 
