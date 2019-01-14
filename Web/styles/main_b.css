@@ -258,11 +258,15 @@ h3 {
     }
 
     .offer__text{
-        /* text-align: center; */
+        text-align: center;
         margin: 20px auto;
         width: auto;
     }
 
+    .projects__theme{
+        text-align: center;
+    }
+    
     .icons {
         justify-content: center;
     }
@@ -308,6 +312,11 @@ h3 {
         width: 100%;
     }
 
+    .projects__theme{
+        margin: auto;
+        text-align: center;
+    }
+
     .offer__title{
         margin: 20px auto;
         width: auto;
@@ -328,6 +337,9 @@ h3 {
     /* .icons__item break-after:first-child{
         margin-right: auto;
     } */
+    .description{
+        margin: auto;
+    }
 }  
 
 @media screen and (max-width: 220px){    
