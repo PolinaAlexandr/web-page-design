@@ -1,9 +1,0 @@
-body.ru *[lang=en] {
-    border-image: url(flag_rus.gif);
-	display: none;
-}
-
-body.en *[lang=ru] {
-	display: none;
-    background-image: url(flag_en.gif);
-}
