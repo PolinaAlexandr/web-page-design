@@ -236,6 +236,16 @@ h3 {
     color: crimson;
 }
 
+.contact__icon {
+    margin-bottom: 15px;
+    font-size: 40px;
+    color: black;
+}
+
+.contact__icon:hover{
+    color: crimson;
+}
+
 
 @media screen and (max-width: 992px) {
     .log_fake{
