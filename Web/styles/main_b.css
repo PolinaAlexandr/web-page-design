@@ -144,17 +144,21 @@ h3 {
     text-shadow: 2px 2px 8px black          ;
 }
 
-.art{
+.art {
+    font-size: 400px;
     display: block;
-    margin: 60px auto 0;
+    margin: 60px auto 80px;
+    color: black;
+    opacity:0.8;
+    text-shadow: 2px 2px 8px crimson;
 }
 
-.art:hover{
-    display: block;
-    background-color: crimson;
-    border-radius: 33px;
-    border-color: crimson;
-}
+
+ .art:hover{
+     color: crimson;
+     text-decoration: none;
+     text-shadow: 2px 2px 8px black  
+} 
 
 .description{
     margin-bottom: 50px;
@@ -248,6 +252,12 @@ h3 {
 
 
 @media screen and (max-width: 992px) {
+    .art{
+        padding: 25px;
+        width: auto;
+        margin: 0 auto;
+        text-align: center;
+    }
     .log_fake{
         display: block;
         margin: 0 auto;
@@ -333,11 +343,11 @@ h3 {
     }
     
     .art{
-        width: 100%;
+        visibility: hidden;
     }
 
     .art:hover{
-        width: 100%;
+        visibility: hidden;
     }
 
     .icons__item{
