@@ -1,9 +1,6 @@
-# web-page-design_for_github.io
-- <s>Template</s>
-- <s>Adaptive design</s>
-- new necessary pages and their design
-- remove old unnecessary scripts 
-- vue and node trying
+# Web page design for github.io
+Pretty and easy-to-use web-pages. Template for my future personal website(maybe in github.io).
+Was created for bootstrap4 and JS tests, also may be used as vue.js/node.js study project.  
 
 
 
